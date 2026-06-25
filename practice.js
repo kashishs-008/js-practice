@@ -11,5 +11,4 @@ console.log(add(2, 3));
 function subtract(a, b) {
     return a - b;
 }
-
 console.log(subtract(10, 5)); 
