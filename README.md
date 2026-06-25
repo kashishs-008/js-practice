@@ -1,3 +1,3 @@
-## JAVASCRIPT
-# AUTHOR
+# JAVASCRIPT
+# Author
 Kashish
