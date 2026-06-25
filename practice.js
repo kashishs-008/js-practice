@@ -6,9 +6,8 @@ console.log("Javascript Practice");
 function add(a, b) {
   return a + b;
 }
-//subtraction 
 console.log(add(2, 3));
-
+//subtraction
 function subtract(a, b) {
     return a - b;
 }
